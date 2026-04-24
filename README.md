@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Generative AI, react.js, angular.js**
 
-- 👨‍💻 All of my projects are available at [https://amanportfolio-yuwd.vercel.app/](https://amanportfolio-yuwd.vercel.app/)
+- 👨‍💻 All of my projects are available at [Aman Verma](https://itsme-livid.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@er.amanverma03mahadev](https://medium.com/@er.amanverma03mahadev)
 
