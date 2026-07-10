@@ -199,6 +199,18 @@ https://medium.com/@er.amanverma03mahadev
 
 ---
 
+![Java](https://img.shields.io/badge/Java-Expert-red?style=for-the-badge)
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Advanced-brightgreen?style=for-the-badge)
+
+![React](https://img.shields.io/badge/React-Advanced-blue?style=for-the-badge)
+
+![Machine Learning](https://img.shields.io/badge/MachineLearning-Research-orange?style=for-the-badge)
+
+![Prompt Engineering](https://img.shields.io/badge/PromptEngineering-LLMs-purple?style=for-the-badge)
+
+---
+
 ## 🧩 LeetCode Stats
 
 - ✅ 100+ Problems Solved
@@ -266,7 +278,7 @@ https://medium.com/@er.amanverma03mahadev
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/@er_amanverma7321">
+<a href="https://www.hackerrank.com/profile/er_amanverma7321">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -274,7 +286,7 @@ https://medium.com/@er.amanverma03mahadev
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<a href="https://codesandbox.com/batman0003333">
+<a href="https://codesandbox.io/u/batman0003333">
 <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white"/>
 </a>
 
