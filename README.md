@@ -199,6 +199,22 @@ https://medium.com/@er.amanverma03mahadev
 
 ---
 
+## 🧩 LeetCode Stats
+
+- ✅ 100+ Problems Solved
+- 🔥 Daily Coding Challenge Participant
+- 📈 Consistent Problem Solving
+- 💡 Focus Areas:
+  - Dynamic Programming
+  - Graphs
+  - Trees
+  - Binary Search
+  - Backtracking
+ 
+  ---
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/batman3703)
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -214,6 +230,7 @@ https://medium.com/@er.amanverma03mahadev
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batman0003333&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/batman3703?theme=dark&font=Nunito)
 
 ---
 
